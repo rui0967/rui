@@ -1,0 +1,26 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wx2492970a66b9ca1b",
+# 公众号appSecret
+"app_secret": "eaa0775aa1d1405ed4a4067fb8665797",
+# 模板消息id
+"template_id": "FvMUIAm-hOnjVkdGv3w5My5SsgC0XqkJvq6cxefnmmY",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["oBraK6PT-3BoWZplbouNsNiy6WMY"]
+"user": ["o6pzv6jQ0X5gOIHeJ-uuhdDyZYFk","o6pzv6jfzLwmlnyLqYWz5gf_JX3o"],
+
+# 信息配置
+# 所在省份
+"province": "甘肃",
+# 所在城市
+"city": "兰州",
+# 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
+"birthday1": {"name": "Bob", "birthday": "2002-02-28"},
+"birthday2": {"name": "Kevin", "birthday": "2001-01-05"},
+
+# 在一起的日子
+"love_date":"2022-11-22",
+# 相识的日子
+"love_date_1":"2022-11-02"
+
+}
